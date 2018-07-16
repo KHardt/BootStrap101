@@ -18,5 +18,9 @@ img {
   }
 
   .card-body {
-      background-color: rgb(170, 170, 207)
+      background-color: bisque;
+  }
+
+  form {
+      text-align: center;
   }
